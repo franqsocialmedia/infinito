@@ -1,0 +1,17 @@
+body{
+	background-color:black;
+}
+
+p {
+	color:white;
+}
+
+hr {
+	color:while;
+	text-align:center;
+}
+
+span.derechos{
+	text-align:center;
+	color:yellow;
+}
